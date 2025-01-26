@@ -102,8 +102,7 @@ export const info = {
             'C/C++', 
             'Laravel', 
             'React', 
-            'Jakarta EE',  
-            'Spring Boot', 
+            'Jakarta EE',   
             'MySQL (SQL)', 
             'Docker'
         ],
@@ -111,8 +110,7 @@ export const info = {
             'Android Studio (Java/Kotlin,XML)', 
             'DevOps Tools',            
             'MongoDB (NoSQL)', 
-            '.NET Core',
-            'Kubernets'
+            '.NET Core'
         ]
     }
     
